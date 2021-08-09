@@ -73,14 +73,16 @@ Luego de leer esta breve introducción, debes contestar esta guía:
 
 1. ¿Cuál es tu nombre?
 
-R:
+R: Bárbara Alejandra Galdames Pizarro
 
 2. ¿Cuál es la diferencia entre R y RStudio?
 
 
-R:
+R: R es más bien una consola, Restudio es más amigable, es posible introducir los codigos, la consola, los archivos y el environment
 
 3. ¿Con qué comando puedes **subir** los cambios del repositorio local al remoto?
+
+push o control enter
 
 4. Crea un .Rproject llamado 00-tarea.Rproject
 
